@@ -32,12 +32,7 @@ I am the sole architect behind **MS Coin** (https://mscoin.network), a native La
 ## 🛠️ Technical Arsenal
 
 ### 🔒 DevSecOps Tools & Cryptographic Matrix
-```img
-https://shields.io
-https://shields.io
-https://shields.io
-https://shields.io
-```
+![Rust](https://shields.io) ![Crypto](https://shields.io) ![P2P](https://shields.io) ![Memory](https://shields.io)
 
 * **Languages:** Rust (Core Systems Expert), C#, Lua, Go, TypeScript, C++
 * **Specialties:** Low-Level Cryptography, Layer-1 Ledger Design, P2P Architecture (NAT Hole Punching), Game Engine Netcode, High-Concurrency Synchronization, Anti-Exploit Engineering.
@@ -51,11 +46,10 @@ https://shields.io
 
 ## 📊 Git Status & Core Analytics
 
-```img
-https://vercel.app
-https://vercel.app
-```
+<p align="left">
+  <img src="https://vercel.app" alt="GitHub Stats" height="180px" />
+  <img src="https://vercel.app" alt="Top Languages" height="180px" />
+</p>
 
 ---
 🌐 **Official Protocol:** [mscoin.network](https://mscoin.network) | 🛠️ **Commercial Hub:** [mstuff.de](https://mstuff.de)
-
