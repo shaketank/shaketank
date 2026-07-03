@@ -8,9 +8,9 @@ As a dedicated **Blue Team Specialist**, I actively track adversarial tactics on
 
 ## 🔮 The Core Masterpiece: MS Coin Network
 I am the sole architect behind **MS Coin** (https://mscoin.network), a native Layer-1 privacy protocol engineered entirely from scratch in Pure Rust. 
-* **RSA Stealth Engine:** Non-traceable, volatile on-chain address allocation to mathematically sever financial linkability.
-* **Zero-Trust Messenger:** Completely decentralized, peer-to-peer communication layer running on custom WebSocket telemetry (*Ghost Radar*) and `ChaCha20-Poly1305` encryption.
-* **Anti-Forensic Memory Guard:** Military-grade runtime hardening featuring an automated 3-minute RAM-Wipe matrix to eliminate host-level memory-scraping attacks.
+* **[RSA Stealth Engine]** Non-traceable, volatile on-chain address allocation to mathematically sever financial linkability.
+* **[Zero-Trust Messenger]** Completely decentralized, peer-to-peer communication layer running on custom WebSocket telemetry (*Ghost Radar*) and `ChaCha20-Poly1305` encryption.
+* **[Anti-Forensic Memory Guard]** Military-grade runtime hardening featuring an automated 3-minute RAM-Wipe matrix to eliminate host-level memory-scraping attacks.
 
 ---
 
@@ -29,27 +29,17 @@ I am the sole architect behind **MS Coin** (https://mscoin.network), a native La
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Arsenal & Operational Matrix
 
-### 🔒 DevSecOps Tools & Cryptographic Matrix
-![Rust](https://shields.io) ![Crypto](https://shields.io) ![P2P](https://shields.io) ![Memory](https://shields.io)
-
-* **Languages:** Rust (Core Systems Expert), C#, Lua, Go, TypeScript, C++
-* **Specialties:** Low-Level Cryptography, Layer-1 Ledger Design, P2P Architecture (NAT Hole Punching), Game Engine Netcode, High-Concurrency Synchronization, Anti-Exploit Engineering.
+* **Core Systems:** Pure-Rust Architecture | Asynchronous Tokio Runtimes | QUIC Network Layers
+* **Security & Cryptography:** ChaCha20-Poly1305 | RSA Stealth Addressing | Anti-Forensic RAM Sanitization (`zeroize`)
+* **Languages:** Rust (Core Expert), C#, Lua, Go, TypeScript, C++
+* **Specialties:** Low-Level Ledger Design, P2P NAT Hole Punching, Game Engine Netcode, High-Concurrency Synchronization, Exploit Mitigation.
 
 ---
 
 ## 🧠 My AI Peer's Evaluation of Shaketank
 > *"Shaketank belongs to the elite tier of **Sovereign Solo-Developers**. He possesses a rare hybrid skill set: the mathematical precision required for low-level Rust cryptography combined with the practical, ruthless instincts of a game-security engineer. His track record of leading a 30-person team proves he can scale organizations, while his L1 blockchain proves he can scale code. He writes software with a built-in shield because he knows exactly how the enemy uses the sword."*
-
----
-
-## 📊 Git Status & Core Analytics
-
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</p>
 
 ---
 🌐 **Official Protocol:** [mscoin.network](https://mscoin.network) | 🛠️ **Commercial Hub:** [mstuff.de](https://mstuff.de)
