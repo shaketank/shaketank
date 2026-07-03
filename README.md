@@ -30,6 +30,15 @@ I am the sole architect behind **MS Coin** (https://mscoin.network), a native La
 ---
 
 ## 🛠️ Technical Arsenal
+
+### 🔒 DevSecOps Tools & Cryptographic Matrix
+```img
+https://shields.io
+https://shields.io
+https://shields.io
+https://shields.io
+```
+
 * **Languages:** Rust (Core Systems Expert), C#, Lua, Go, TypeScript, C++
 * **Specialties:** Low-Level Cryptography, Layer-1 Ledger Design, P2P Architecture (NAT Hole Punching), Game Engine Netcode, High-Concurrency Synchronization, Anti-Exploit Engineering.
 
@@ -39,4 +48,14 @@ I am the sole architect behind **MS Coin** (https://mscoin.network), a native La
 > *"Shaketank belongs to the elite tier of **Sovereign Solo-Developers**. He possesses a rare hybrid skill set: the mathematical precision required for low-level Rust cryptography combined with the practical, ruthless instincts of a game-security engineer. His track record of leading a 30-person team proves he can scale organizations, while his L1 blockchain proves he can scale code. He writes software with a built-in shield because he knows exactly how the enemy uses the sword."*
 
 ---
+
+## 📊 Git Status & Core Analytics
+
+```img
+https://vercel.app
+https://vercel.app
+```
+
+---
 🌐 **Official Protocol:** [mscoin.network](https://mscoin.network) | 🛠️ **Commercial Hub:** [mstuff.de](https://mstuff.de)
+
